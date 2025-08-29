@@ -1,10 +1,17 @@
-# Autonomous Degen
+<div align="center">
+  <h1>Autonomous Degen</h1>
+</div>
 
-![Autonomous Degen Logo](https://res.cloudinary.com/dubelz7md/image/upload/v1756479211/att.LkKyLVclp0UiuRd8gg1d5YbCcjjvtHpLYxp0acV-A5o_o8vrvb.jpg)
+<div align="center">
+  <img src="https://res.cloudinary.com/dubelz7md/image/upload/v1756479211/att.LkKyLVclp0UiuRd8gg1d5YbCcjjvtHpLYxp0acV-A5o_o8vrvb.jpg" alt="Autonomous Degen Logo" width="300" />
+</div>
 
-[![Follow on X](https://img.shields.io/badge/Follow-@autodegen_-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/autodegen_)
+<div align="center">
+  <a href="https://x.com/autodegen_">
+    <img src="https://img.shields.io/badge/Follow-@autodegen_-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Follow on X" />
+  </a>
+</div>
 
-![Vitalik's DeFi Dream](https://res.cloudinary.com/dubelz7md/image/upload/v1756475283/9Cg4-unscreen_fvwmzm.gif)
 
 ## The Intersection of Dreams and DeFi
 
@@ -133,3 +140,7 @@ Particular attention should be paid to preserving the artistic and philosophical
 *"crypto is already pretty weird if you think about it. prices that make zero sense. people getting rich off dog pictures. losing your life savings because of one tweet. this bot just points out how weird it all is and makes you laugh about it instead of cry."*
 
 **- message from the depressed dev**
+
+<div align="center">
+  <img src="https://res.cloudinary.com/dubelz7md/image/upload/v1756475283/9Cg4-unscreen_fvwmzm.gif" alt="Vitalik's DeFi Dream" width="200" />
+</div>
