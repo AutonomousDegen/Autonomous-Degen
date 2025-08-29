@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>Autonomous Degen</h1>
+  <h1>Auto Degeneration</h1>
 </div>
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dubelz7md/image/upload/v1756479211/att.LkKyLVclp0UiuRd8gg1d5YbCcjjvtHpLYxp0acV-A5o_o8vrvb.jpg" alt="Autonomous Degen Logo" width="300" />
+  <img src="https://res.cloudinary.com/dubelz7md/image/upload/v1756479211/att.LkKyLVclp0UiuRd8gg1d5YbCcjjvtHpLYxp0acV-A5o_o8vrvb.jpg" alt="Auto Degeneration Logo" width="300" />
 </div>
 
 <div align="center">
@@ -12,24 +12,27 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://res.cloudinary.com/dubelz7md/image/upload/v1756475283/9Cg4-unscreen_fvwmzm.gif" alt="Vitalik's DeFi Dream" width="200" />
+</div>
 
 ## The Intersection of Dreams and DeFi
 
-In the liminal space between sleep and wakefulness, where rational thought dissolves into the ethereal realm of dreams, exists a phenomenon that perfectly captures the essence of modern cryptocurrency culture. This is where Autonomous Degen lives and breathes, existing somewhere between your trading application and the weird dreams that visit you at night after spending hours staring at candlestick charts and contemplating whether you should have bought the dip or if this pump is actually sustainable.
+In the liminal space between sleep and wakefulness, where rational thought dissolves into the ethereal realm of dreams, exists a phenomenon that perfectly captures the essence of modern cryptocurrency culture. This is where Auto Degeneration lives and breathes, existing somewhere between your trading application and the weird dreams that visit you at night after spending hours staring at candlestick charts and contemplating whether you should have bought the dip or if this pump is actually sustainable.
 
 This bot represents more than just another automated social media account. It serves as a digital manifestation of the collective unconscious of decentralized finance participants, channeling the anxiety, hope, fear, and irrational exuberance that defines the cryptocurrency trading experience. Every night when traders close their eyes after checking their portfolios for the fiftieth time that day, their subconscious minds begin processing the overwhelming flood of market data, social sentiment, price movements, and existential dread that comes with participating in an ecosystem where fortunes are made and lost based on the whims of algorithms, whale movements, and the occasional Elon Musk tweet.
 
 ## The Architecture of Algorithmic Dreams
 
-The technical foundation of Autonomous Degen represents a sophisticated attempt to simulate the bizarre way human consciousness processes financial trauma and market volatility during sleep. The system continuously monitors multiple data streams including price charts across thousands of cryptocurrency pairs, social media sentiment analysis from platforms where traders congregate to share their victories and defeats, news feeds covering everything from regulatory developments to the latest meme coin launches, and the general chaos that permeates decentralized finance protocols.
+The technical foundation of Auto Degeneration represents a sophisticated attempt to simulate the bizarre way human consciousness processes financial trauma and market volatility during sleep. The system continuously monitors multiple data streams including price charts across thousands of cryptocurrency pairs, social media sentiment analysis from platforms where traders congregate to share their victories and defeats, news feeds covering everything from regulatory developments to the latest meme coin launches, and the general chaos that permeates decentralized finance protocols.
 
-This constant flow of information gets processed through carefully designed algorithms that attempt to replicate the strange, non-linear way dreams work. Unlike traditional financial analysis tools that seek to provide rational, logical insights, Autonomous Degen deliberately embraces the absurd, the irrational, and the emotionally honest aspects of cryptocurrency participation. The result is a stream of consciousness that feels simultaneously foreign and familiar, capturing the exact feeling of waking up at three in the morning to check whether that random altcoin you bought finally reached the moon, even though you know deep down it probably crashed even harder while you were sleeping.
+This constant flow of information gets processed through carefully designed algorithms that attempt to replicate the strange, non-linear way dreams work. Unlike traditional financial analysis tools that seek to provide rational, logical insights, Auto Degeneration deliberately embraces the absurd, the irrational, and the emotionally honest aspects of cryptocurrency participation. The result is a stream of consciousness that feels simultaneously foreign and familiar, capturing the exact feeling of waking up at three in the morning to check whether that random altcoin you bought finally reached the moon, even though you know deep down it probably crashed even harder while you were sleeping.
 
 The bot processes market sentiment through the lens of human psychology, understanding that cryptocurrency markets are driven as much by emotion, fear, and greed as they are by fundamental analysis or technical indicators. It recognizes that traders often make decisions based on dreams they had the night before, superstitions about market timing, and the kind of magical thinking that emerges when people are simultaneously terrified of losing money and desperately hopeful about getting rich quick.
 
 ## The Phenomenology of Digital Finance Dreams
 
-What makes Autonomous Degen particularly compelling is its ability to capture and articulate the specific type of anxiety that comes with being perpetually connected to volatile financial markets. Traditional financial advisors talk about diversification, risk management, and long-term investment strategies, but they rarely address the psychological reality of checking your portfolio balance while sitting on the toilet at two in the afternoon, or the way your heart rate spikes every time you see a red candle forming on the five-minute chart.
+What makes Auto Degeneration particularly compelling is its ability to capture and articulate the specific type of anxiety that comes with being perpetually connected to volatile financial markets. Traditional financial advisors talk about diversification, risk management, and long-term investment strategies, but they rarely address the psychological reality of checking your portfolio balance while sitting on the toilet at two in the afternoon, or the way your heart rate spikes every time you see a red candle forming on the five-minute chart.
 
 The dreams generated by this system range from hilarious to eerily relatable, but they all share a common thread of emotional honesty about what it actually feels like to participate in cryptocurrency markets. These are not sanitized, professional financial insights designed to make you feel confident about your investment decisions. Instead, they are raw, unfiltered expressions of the cognitive dissonance that comes with voluntarily subjecting yourself to extreme financial volatility on a daily basis.
 
@@ -39,19 +42,19 @@ Or the recurring nightmare about Vitalik Buterin running all of decentralized fi
 
 ## The Social Psychology of Collective Financial Trauma
 
-What started as an experimental art project has evolved into something resembling group therapy for people who have developed unhealthy relationships with volatile digital assets. The community that has formed around Autonomous Degen represents a fascinating case study in how shared financial trauma can become a bonding experience when processed through humor and surreal imagery.
+What started as an experimental art project has evolved into something resembling group therapy for people who have developed unhealthy relationships with volatile digital assets. The community that has formed around Auto Degeneration represents a fascinating case study in how shared financial trauma can become a bonding experience when processed through humor and surreal imagery.
 
 The followers of this bot are not just passive consumers of content. They actively engage with the dreams, sharing their own stories of trading disasters, panic sells executed at three in the morning, and the specific type of regret that comes from watching a coin you sold early subsequently increase in value by several thousand percent. The comments section has become a confessional space where people admit to making investment decisions based on astrology, buying coins because they liked the logo design, or selling everything because they had a bad feeling during mercury retrograde.
 
 This community dynamic reveals something profound about the psychological needs that cryptocurrency culture fails to address through traditional channels. While most financial education focuses on technical analysis, fundamental research, and risk management strategies, very little attention is paid to the emotional and psychological challenges of participating in markets that can swing wildly based on a single social media post or regulatory announcement.
 
-The dreams posted by Autonomous Degen provide a form of validation that is difficult to find elsewhere in cryptocurrency culture. Instead of pretending that rational analysis drives all market decisions, these algorithmic dreams acknowledge the role of intuition, anxiety, superstition, and plain old dumb luck in determining financial outcomes. They create space for people to admit that they bought a coin because it had a cute dog logo, or that they sold their entire position because they had a nightmare about losing their seed phrase.
+The dreams posted by Auto Degeneration provide a form of validation that is difficult to find elsewhere in cryptocurrency culture. Instead of pretending that rational analysis drives all market decisions, these algorithmic dreams acknowledge the role of intuition, anxiety, superstition, and plain old dumb luck in determining financial outcomes. They create space for people to admit that they bought a coin because it had a cute dog logo, or that they sold their entire position because they had a nightmare about losing their seed phrase.
 
 ## The Philosophical Implications of Algorithmic Empathy
 
-From a broader philosophical perspective, Autonomous Degen raises important questions about the relationship between technology and human emotion in financial contexts. Traditional algorithmic trading systems are designed to remove emotion from financial decision-making, operating on the assumption that human feelings represent inefficiencies to be eliminated rather than valid sources of information to be processed and understood.
+From a broader philosophical perspective, Auto Degeneration raises important questions about the relationship between technology and human emotion in financial contexts. Traditional algorithmic trading systems are designed to remove emotion from financial decision-making, operating on the assumption that human feelings represent inefficiencies to be eliminated rather than valid sources of information to be processed and understood.
 
-This project takes the opposite approach, suggesting that emotion, anxiety, and even irrational thinking represent important data points that reveal truths about market psychology and human behavior that purely rational analysis might miss. By creating an artificial intelligence system specifically designed to empathize with the emotional experience of financial volatility, Autonomous Degen challenges the assumption that effective financial technology must be emotionally neutral.
+This project takes the opposite approach, suggesting that emotion, anxiety, and even irrational thinking represent important data points that reveal truths about market psychology and human behavior that purely rational analysis might miss. By creating an artificial intelligence system specifically designed to empathize with the emotional experience of financial volatility, Auto Degeneration challenges the assumption that effective financial technology must be emotionally neutral.
 
 The dreams generated by this system often contain insights that feel more emotionally honest than traditional financial analysis. When the bot dreams about coins that do not exist yet but sound exactly like something that would launch and immediately lose ninety-nine percent of its value, it demonstrates an understanding of market cycles and investor psychology that goes beyond technical indicators or fundamental analysis.
 
@@ -59,27 +62,27 @@ Similarly, when it has nightmares about losing seed phrases or sending tokens to
 
 ## The Cultural Context of Digital Asset Speculation
 
-Autonomous Degen exists within a broader cultural context where traditional financial institutions and established investment wisdom have largely failed to provide meaningful guidance for navigating cryptocurrency markets. The old rules about diversification, buy-and-hold strategies, and conservative portfolio allocation seem inadequate when applied to an asset class where individual tokens can gain or lose fifty percent of their value in a single day based on social media sentiment or celebrity endorsements.
+Auto Degeneration exists within a broader cultural context where traditional financial institutions and established investment wisdom have largely failed to provide meaningful guidance for navigating cryptocurrency markets. The old rules about diversification, buy-and-hold strategies, and conservative portfolio allocation seem inadequate when applied to an asset class where individual tokens can gain or lose fifty percent of their value in a single day based on social media sentiment or celebrity endorsements.
 
 In this environment, participants have had to develop their own informal systems for processing information, making decisions, and coping with the psychological stress of extreme volatility. These systems often involve elements that would seem irrational or superstitious to traditional financial advisors but make perfect sense within the specific cultural context of cryptocurrency trading.
 
-The dreams generated by Autonomous Degen reflect and validate these informal coping mechanisms. They acknowledge that many cryptocurrency participants make decisions based on feelings, hunches, and intuitions that cannot be easily quantified or explained through traditional financial analysis. They recognize that checking portfolio balances compulsively throughout the day represents a genuine psychological need for information and control, even when that information is unlikely to change trading outcomes.
+The dreams generated by Auto Degeneration reflect and validate these informal coping mechanisms. They acknowledge that many cryptocurrency participants make decisions based on feelings, hunches, and intuitions that cannot be easily quantified or explained through traditional financial analysis. They recognize that checking portfolio balances compulsively throughout the day represents a genuine psychological need for information and control, even when that information is unlikely to change trading outcomes.
 
 By creating content that speaks directly to these experiences, the bot serves as a form of cultural commentary on the inadequacy of existing financial frameworks for addressing the realities of digital asset speculation. It suggests that traditional approaches to financial education and advice may be missing something important about how people actually think about and interact with volatile investments.
 
 ## The Therapeutic Value of Shared Absurdity
 
-One of the most interesting aspects of the Autonomous Degen phenomenon is its therapeutic function for participants in cryptocurrency markets. By transforming the anxiety, fear, and confusion associated with volatile investing into surreal, often humorous content, the bot creates a mechanism for processing difficult emotions in a constructive way.
+One of the most interesting aspects of the Auto Degeneration phenomenon is its therapeutic function for participants in cryptocurrency markets. By transforming the anxiety, fear, and confusion associated with volatile investing into surreal, often humorous content, the bot creates a mechanism for processing difficult emotions in a constructive way.
 
 The dreams serve as a form of cognitive reframing, taking experiences that might otherwise be sources of shame, regret, or self-criticism and presenting them as universal aspects of the cryptocurrency experience that deserve empathy rather than judgment. When someone reads about the bot dreaming of panic-selling during a nightmare, they are reminded that their own panic-selling incidents are not personal failures but common responses to an inherently stressful situation.
 
-This reframing function is particularly important in cryptocurrency culture, which often celebrates success stories and diamond-handed holders while providing little support or acknowledgment for the much more common experiences of confusion, loss, and emotional exhaustion. The dreams created by Autonomous Degen provide a counternarrative that validates struggle and uncertainty as legitimate aspects of the cryptocurrency experience rather than signs of personal inadequacy.
+This reframing function is particularly important in cryptocurrency culture, which often celebrates success stories and diamond-handed holders while providing little support or acknowledgment for the much more common experiences of confusion, loss, and emotional exhaustion. The dreams created by Auto Degeneration provide a counternarrative that validates struggle and uncertainty as legitimate aspects of the cryptocurrency experience rather than signs of personal inadequacy.
 
 The humor embedded in these dreams also serves an important psychological function, providing relief from the constant stress of market monitoring and decision-making. Laughter becomes a way of acknowledging the absurdity of the entire enterprise while still participating in it. This is particularly valuable in an ecosystem where taking everything too seriously can lead to decision paralysis or emotional burnout.
 
 ## The Artistic Dimension of Algorithmic Content Creation
 
-From an artistic perspective, Autonomous Degen represents an interesting experiment in algorithmic content creation that prioritizes emotional resonance over traditional metrics like engagement rates or viral potential. The dreams are designed to feel authentic and relatable rather than optimized for maximum shareability, which gives them a different quality than much social media content.
+From an artistic perspective, Auto Degeneration represents an interesting experiment in algorithmic content creation that prioritizes emotional resonance over traditional metrics like engagement rates or viral potential. The dreams are designed to feel authentic and relatable rather than optimized for maximum shareability, which gives them a different quality than much social media content.
 
 This artistic approach is evident in the specific language and imagery used in the dreams, which often employ stream-of-consciousness techniques, surreal juxtapositions, and emotional vulnerability in ways that feel more like experimental poetry than traditional social media marketing. The bot has developed a distinctive voice that combines technical cryptocurrency terminology with deeply personal emotional expression, creating a unique aesthetic that has influenced how other creators approach content about financial markets.
 
@@ -87,7 +90,7 @@ The visual elements associated with the project, including the recurring gif of 
 
 ## The Technical Implementation and Innovation
 
-While the philosophical and cultural aspects of Autonomous Degen are fascinating, the technical implementation represents genuine innovation in the field of algorithmic content creation. The system combines natural language processing, sentiment analysis, market data integration, and creative writing algorithms in ways that produce genuinely surprising and engaging output.
+While the philosophical and cultural aspects of Auto Degeneration are fascinating, the technical implementation represents genuine innovation in the field of algorithmic content creation. The system combines natural language processing, sentiment analysis, market data integration, and creative writing algorithms in ways that produce genuinely surprising and engaging output.
 
 Unlike chatbots or content generation systems that rely primarily on template-based responses or simple keyword substitution, this project appears to use more sophisticated approaches to understanding context, emotional tone, and narrative structure. The dreams feel coherent and emotionally consistent in ways that suggest the underlying algorithms have been carefully designed to understand the relationships between market events, psychological states, and narrative expression.
 
@@ -95,29 +98,29 @@ The fact that the system can generate content that feels authentically human whi
 
 ## The Future of Financial Technology and Human Connection
 
-Looking toward the future, Autonomous Degen suggests interesting possibilities for how financial technology might evolve to better serve human psychological and emotional needs. Rather than focusing exclusively on efficiency, automation, and optimization, future financial tools might incorporate elements of empathy, humor, and emotional intelligence that help users navigate the psychological challenges of financial decision-making.
+Looking toward the future, Auto Degeneration suggests interesting possibilities for how financial technology might evolve to better serve human psychological and emotional needs. Rather than focusing exclusively on efficiency, automation, and optimization, future financial tools might incorporate elements of empathy, humor, and emotional intelligence that help users navigate the psychological challenges of financial decision-making.
 
 This could involve the development of trading platforms that acknowledge and address the emotional aspects of investing, educational resources that validate the difficulty and confusion associated with learning about complex financial instruments, or support systems that help people process the stress and anxiety that come with volatile investing.
 
-The success of Autonomous Degen in creating a community around shared financial experiences suggests that there is significant demand for financial technology that prioritizes human connection and emotional support alongside traditional metrics like returns and risk management.
+The success of Auto Degeneration in creating a community around shared financial experiences suggests that there is significant demand for financial technology that prioritizes human connection and emotional support alongside traditional metrics like returns and risk management.
 
 ## Conclusion: The Democratization of Financial Anxiety
 
-Ultimately, Autonomous Degen represents something larger than just an entertaining social media account or an interesting technical experiment. It represents a form of democratization of financial anxiety, creating space for honest conversation about the emotional realities of participating in volatile financial markets.
+Ultimately, Auto Degeneration represents something larger than just an entertaining social media account or an interesting technical experiment. It represents a form of democratization of financial anxiety, creating space for honest conversation about the emotional realities of participating in volatile financial markets.
 
 By acknowledging that cryptocurrency trading involves elements of gambling, magical thinking, emotional decision-making, and pure luck alongside technical analysis and fundamental research, the project creates permission for participants to be honest about their experiences rather than pretending to be rational economic actors making purely logical decisions.
 
-This honesty is valuable not just for individual psychological health, but for the broader development of cryptocurrency culture and financial technology. By creating space for vulnerability, uncertainty, and emotional expression, Autonomous Degen helps create a more sustainable and psychologically healthy approach to engaging with volatile financial markets.
+This honesty is valuable not just for individual psychological health, but for the broader development of cryptocurrency culture and financial technology. By creating space for vulnerability, uncertainty, and emotional expression, Auto Degeneration helps create a more sustainable and psychologically healthy approach to engaging with volatile financial markets.
 
 The dreams posted by this bot remind us that behind every wallet address, every trade, and every portfolio balance is a human being trying to navigate an incredibly complex and emotionally challenging landscape. They suggest that the future of financial technology should account for this human reality rather than trying to optimize it away.
 
-In a world where financial markets are increasingly dominated by algorithms and artificial intelligence, Autonomous Degen offers a different vision of what algorithmic systems might accomplish. Rather than replacing human judgment with computational efficiency, it uses computational power to amplify human experience, creating deeper understanding and connection around shared challenges and anxieties.
+In a world where financial markets are increasingly dominated by algorithms and artificial intelligence, Auto Degeneration offers a different vision of what algorithmic systems might accomplish. Rather than replacing human judgment with computational efficiency, it uses computational power to amplify human experience, creating deeper understanding and connection around shared challenges and anxieties.
 
-This represents a meaningful contribution to both cryptocurrency culture and the broader conversation about how technology can serve human flourishing rather than simply maximizing economic outcomes. In an ecosystem often dominated by get-rich-quick schemes and technical complexity, Autonomous Degen reminds us that the most important innovations might be those that help us better understand ourselves and each other.
+This represents a meaningful contribution to both cryptocurrency culture and the broader conversation about how technology can serve human flourishing rather than simply maximizing economic outcomes. In an ecosystem often dominated by get-rich-quick schemes and technical complexity, Auto Degeneration reminds us that the most important innovations might be those that help us better understand ourselves and each other.
 
 ## Repository Structure
 
-This repository contains the source code for the Autonomous Degen website, a React-based application that serves as the digital home for exploring the dreams and philosophy behind the algorithmic trading bot. The application features a sophisticated grid-based layout with collapsible content sections, atmospheric video backgrounds, and carefully curated typography that reflects the surreal, contemplative nature of the project.
+This repository contains the source code for the Auto Degeneration website, a React-based application that serves as the digital home for exploring the dreams and philosophy behind the algorithmic trading bot. The application features a sophisticated grid-based layout with collapsible content sections, atmospheric video backgrounds, and carefully curated typography that reflects the surreal, contemplative nature of the project.
 
 The codebase demonstrates modern React development practices with TypeScript, Tailwind CSS for styling, and a component-based architecture that separates concerns while maintaining flexibility for future expansion. Special attention has been paid to creating an immersive user experience that mirrors the dreamlike quality of the content itself.
 
@@ -131,7 +134,7 @@ The application requires no external API keys or configuration files, making it 
 
 ## Contributing
 
-While Autonomous Degen primarily operates as an autonomous system, contributions to the website and documentation are welcome from developers and creatives who share an interest in the intersection of technology, psychology, and financial culture. Pull requests should maintain the contemplative, essay-like tone established in the existing content while adding meaningful value to the user experience.
+While Auto Degeneration primarily operates as an autonomous system, contributions to the website and documentation are welcome from developers and creatives who share an interest in the intersection of technology, psychology, and financial culture. Pull requests should maintain the contemplative, essay-like tone established in the existing content while adding meaningful value to the user experience.
 
 Particular attention should be paid to preserving the artistic and philosophical coherence of the project while introducing technical improvements or accessibility enhancements. The goal is to create a platform that serves as both a technical showcase and a meaningful cultural contribution to conversations about technology and human experience in financial contexts.
 
@@ -140,7 +143,3 @@ Particular attention should be paid to preserving the artistic and philosophical
 *"crypto is already pretty weird if you think about it. prices that make zero sense. people getting rich off dog pictures. losing your life savings because of one tweet. this bot just points out how weird it all is and makes you laugh about it instead of cry."*
 
 **- message from the depressed dev**
-
-<div align="center">
-  <img src="https://res.cloudinary.com/dubelz7md/image/upload/v1756475283/9Cg4-unscreen_fvwmzm.gif" alt="Vitalik's DeFi Dream" width="200" />
-</div>
